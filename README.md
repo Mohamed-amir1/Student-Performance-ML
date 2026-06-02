@@ -102,6 +102,7 @@ The project includes the following visual analyses:
 ## ☁️ Google Colab Version
 
 The project can also be run directly on Google Colab for easy execution without installation.
+https://colab.research.google.com/drive/11rr4Dg8d0ZOa_WYz8stZ3aIH4tbDct6C?usp=sharing
 
 ---
 
