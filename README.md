@@ -14,6 +14,8 @@ This project uses Machine Learning (Logistic Regression) to predict whether a st
 - Math Score
 - Reading Score
 - Writing Score
+- <img width="876" height="475" alt="image" src="https://github.com/user-attachments/assets/73da45f6-c496-4119-b96e-cca0b824624d" />
+
 
 ---
 
@@ -25,6 +27,8 @@ This project uses Machine Learning (Logistic Regression) to predict whether a st
 ## 📈 Results
 - Accuracy: 95.5%
 - Evaluation: Confusion Matrix
+- <img width="550" height="453" alt="image" src="https://github.com/user-attachments/assets/fe5b6afb-7467-4121-b2a4-86bdd0cf0f80" />
+
 
 ---
 
