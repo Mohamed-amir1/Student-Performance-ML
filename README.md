@@ -8,7 +8,7 @@ The goal is to understand how student background and academic performance affect
 ---
 
 ## 📊 Dataset Description
-
+The dataset contains 1000 student records used for binary classification.
 The dataset contains information about students including:
 
 - Gender  
