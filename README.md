@@ -1,4 +1,4 @@
-#🎓 Student Performance Prediction using Machine Learning
+# 🎓 Student Performance Prediction using Machine Learning
 ## 📌 Project Overview
 
 This project uses Machine Learning (Logistic Regression) to predict whether a student will pass or fail based on academic and demographic features.
