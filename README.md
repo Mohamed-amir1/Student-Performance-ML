@@ -61,8 +61,12 @@ The high accuracy is expected due to the strong relationship between academic sc
 
 The project includes the following visual analyses:
 
-- Confusion Matrix (model performance)  
-- Distribution of pass/fail students  
+- Confusion Matrix (model performance)
+- <img width="550" height="453" alt="image" src="https://github.com/user-attachments/assets/2c02c2cb-b2c0-4450-9ce1-5742c02be909" />
+  
+- Distribution of pass/fail students
+- <img width="577" height="390" alt="image" src="https://github.com/user-attachments/assets/5af9b85f-7f31-46ad-ab39-ca24fbebdc7e" />
+
 - Relationship between academic scores and passing status  
 
 ---
