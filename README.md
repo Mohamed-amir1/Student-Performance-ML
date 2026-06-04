@@ -1,119 +1,108 @@
-# 🎓 Student Performance Prediction using Machine Learning
-## 📌 Project Overview
+# Student Performance Prediction using Machine Learning
 
+## Project Overview
 This project uses Machine Learning (Logistic Regression) to predict whether a student will pass or fail based on academic and demographic features.
 
 The goal is to understand how student background and academic performance affect success.
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 The dataset contains 1000 student records used for binary classification.
-The dataset contains information about students including:
 
-- Gender  
-- Race/Ethnicity  
-- Parental Education Level  
-- Lunch Type  
-- Test Preparation Course  
-- Math Score  
-- Reading Score  
-- Writing Score  
+Features include:
+- Gender
+- Race/Ethnicity
+- Parental Education Level
+- Lunch Type
+- Test Preparation Course
+- Math Score
+- Reading Score
+- Writing Score
 
 ---
 
-## 🎯 Target Variable
-
+## Target Variable
 The target variable was created to classify students as:
 
-- Pass (1): Student passes all subjects  
-- Fail (0): Student fails in at least one subject  
+- Pass (1): Student passes all subjects
+- Fail (0): Student fails in at least one subject
 
 ---
 
-## 🧠 Model Used
-
+## Model Used
 - Logistic Regression (Binary Classification)
 
 ---
 
-## ⚙️ Data Preprocessing
-
+## Data Preprocessing
 The following steps were applied:
-
-- Encoding categorical variables  
-- Feature scaling  
-- Splitting data into training and testing sets  
+- Encoding categorical variables
+- Feature scaling
+- Splitting data into training and testing sets
 
 ---
 
-## 📈 Model Performance
-
-- Accuracy: 95.5%  
-- Evaluation Method: Confusion Matrix  
+## Model Performance
+- Accuracy: 95.5%
+- Evaluation Method: Confusion Matrix
 
 The high accuracy is expected due to the strong relationship between academic scores and the target variable.
 
 ---
 
-## 📊 Visualizations
-
+## Visualizations
 The project includes the following visual analyses:
 
 - Confusion Matrix (model performance)
-- <img width="550" height="453" alt="image" src="https://github.com/user-attachments/assets/2c02c2cb-b2c0-4450-9ce1-5742c02be909" />
-  
+
+<img width="550" height="453" alt="image" src="https://github.com/user-attachments/assets/2c02c2cb-b2c0-4450-9ce1-5742c02be909" />
+
 - Distribution of pass/fail students
-- <img width="577" height="390" alt="image" src="https://github.com/user-attachments/assets/5af9b85f-7f31-46ad-ab39-ca24fbebdc7e" />
 
-- Relationship between academic scores and passing status  
+<img width="577" height="390" alt="image" src="https://github.com/user-attachments/assets/5af9b85f-7f31-46ad-ab39-ca24fbebdc7e" />
 
----
-
-## 🔍 Key Insights
-
-- Academic scores are the strongest factor in determining student success  
-- Students with higher scores are significantly more likely to pass  
-- Test preparation has a positive impact on performance  
-- The dataset is slightly imbalanced toward passing students  
+- Relationship between academic scores and passing status
 
 ---
 
-## 🧰 Tools & Technologies
-
-- Python  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- Scikit-learn  
-- Jupyter Notebook  
+## Key Insights
+- Academic scores are the strongest factor in determining student success
+- Students with higher scores are significantly more likely to pass
+- Test preparation has a positive impact on performance
+- The dataset is slightly imbalanced toward passing students
 
 ---
 
-## 🚀 How to Run the Project
-
-- Clone the repository  
-- Open the notebook in Jupyter Notebook or Google Colab  
-- Run all cells  
+## Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
 
 ---
 
-## ☁️ Google Colab Version
+## How to Run the Project
+1. Clone the repository
+2. Open the StudentsPerformance in Jupyter Notebook or Google Colab
+3. Run all cells
 
-The project can also be run directly on Google Colab for easy execution without installation.
+---
+
+## Google Colab Version
 https://colab.research.google.com/drive/11rr4Dg8d0ZOa_WYz8stZ3aIH4tbDct6C?usp=sharing
 
 ---
 
-## 📁 Project Structure
-
-- Jupyter Notebook file  
-- Dataset file  
-- README file  
+## Project Structure
+- Jupyter Notebook file
+- Dataset file
+- README file
 
 ---
 
-## 🏁 Conclusion
-
+## Conclusion
 This project demonstrates how machine learning can effectively predict student performance based on academic and demographic features using Logistic Regression.
